@@ -1,5 +1,5 @@
 # Author
-![@Rafase282](https://avatars.githubusercontent.com/u/90511329?s=400&u=8de1c9bd1ac0d19533748f20d1cf3486aa45c667&v=4)
+![@Rafase282](https://avatars.githubusercontent.com/u/90511329?s=128&u=8de1c9bd1ac0d19533748f20d1cf3486aa45c667&v=4)
 
 Created by Sedat Can Uygur
 
